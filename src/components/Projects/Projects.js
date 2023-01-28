@@ -44,7 +44,7 @@ function Projects() {
               isBlog={false}
               title="This website"
               description="My personal portfolio (chrisclapham.me) which features some of my GitHub projects as well as my résumé and technical skills. This project was built using React.js, Node.js, Express.js, CSS3 and VS Code."
-              ghLink="https://github.com/ranCMD/ranCMD.github.io"
+              ghLink="https://github.com/ranCMD/Portfolio"
             />
           </Col>
         </Row>
