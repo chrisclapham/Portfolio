@@ -17,7 +17,7 @@ function Footer() {
           <h3>Developed by Chris Clapham</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} CC</h3>
+          <h3>© {year}</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -39,6 +39,16 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.instagram.com/chrisj.clapham/"
+                style={{ color: "white" }}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <AiFillInstagram />
               </a>
             </li>
           </ul>
