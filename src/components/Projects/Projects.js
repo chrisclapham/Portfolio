@@ -24,7 +24,7 @@ function Projects() {
               isBlog={false}
               title="OSINT Application"
               description="Written in Python using the PyQT5 framework, a selection of OSINT tools packaged together for everyday cyber reconnaissance into an easy to use Windows GUI application."
-              ghLink="https://github.com/ranCMD/D.osint"
+              ghLink="https://github.com/ranCMD/WebTracer"
             />
           </Col>
 
