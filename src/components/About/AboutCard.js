@@ -38,6 +38,9 @@ function AboutCard() {
             specifics as it is about being able to constantly learn new things.
             <br />
             <br />
+            Away from my computer I enjoy caputuring my surroundings through
+            photography (mostly landscapes), exploring new places to eat and
+            drink coffee followed by road cycling to burn it all off.
           </p>
         </blockquote>
       </Card.Body>
