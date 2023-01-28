@@ -10,6 +10,7 @@ function Type() {
           "Security engineer",
           "Cyber professional",
           "Raspberry Pi tinkerer",
+          "Photographer",
           "Coffee drinker",
         ],
         autoStart: true,
