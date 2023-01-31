@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fc3f7f1.css",
-    "main.js": "/static/js/main.d0934035.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "main.css": "/static/css/main.ec65e432.css",
+    "main.js": "/static/js/main.c10ab21d.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/osint-app.png": "/static/media/osint-app.9beec30a8f5c90fa5ebc.png",
     "static/media/goscanner.png": "/static/media/goscanner.60e6ded224c182535488.png",
@@ -14,13 +13,12 @@
     "static/media/WILDWORLDFONT.woff": "/static/media/WILDWORLDFONT.fab2140f59bd02d9ee5b.woff",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.2fc3f7f1.css.map": "/static/css/main.2fc3f7f1.css.map",
-    "main.d0934035.js.map": "/static/js/main.d0934035.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "main.ec65e432.css.map": "/static/css/main.ec65e432.css.map",
+    "main.c10ab21d.js.map": "/static/js/main.c10ab21d.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fc3f7f1.css",
-    "static/js/main.d0934035.js"
+    "static/css/main.ec65e432.css",
+    "static/js/main.c10ab21d.js"
   ]
 }
